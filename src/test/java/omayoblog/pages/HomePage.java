@@ -14,7 +14,7 @@ public class HomePage {
 
 	WebDriver driver;
 
-	// this is constructor to initalize page facotry
+	// this is constructor to initialize page factory
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 
