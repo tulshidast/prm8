@@ -36,7 +36,7 @@ public class HomePage {
 		return tableActualData;
 	}
 
-	
+	// updates
 	public String clickOnSelenium143Link() {
 
 		selenium143Link.click();
