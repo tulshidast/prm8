@@ -12,6 +12,7 @@ import b8.utility.Utility;
 
 public class HomePage {
 
+	// webdriver instance
 	WebDriver driver;
 
 	// this is constructor to initialize page factory
