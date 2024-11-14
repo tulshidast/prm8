@@ -1,0 +1,2 @@
+2024-10-29 20:49:05,093 +0530 [main] DEBUG (VerifyTableData.java:34) - before getting table data
+2024-10-29 20:49:05,402 +0530 [main] ERROR (VerifyTableData.java:38) - after getting table data
