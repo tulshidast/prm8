@@ -18,6 +18,7 @@ public class Selenium143Page {
 	@FindBy(xpath = "//a[text()='What is Selenium?']")
 	WebElement whatIsSeleniumLink;
 
+	// this method is required to click on link
 	public String getWhatIsSeleniumLinkText() {
 		return whatIsSeleniumLink.getText();
 	}
