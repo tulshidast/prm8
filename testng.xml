@@ -4,8 +4,6 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="omayoblog.testcase.VerifyTableData" />
-			<!-- <class name="omayoblog.testcase.VerifySelenium143Page"/>
-      <class name="omayoblog.testcase.BaseTest"/>-->
 		</classes>
 	</test> <!--
 	Test -->
